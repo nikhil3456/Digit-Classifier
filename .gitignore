@@ -2,5 +2,10 @@
 __pycache__/
 *.py[cod]
 
+# Vim temporary files
+*~
+*.swp
+*.swo
+
 # Notebook Checkpoints
-.ipynb_checkpoints/
+.ipynb_checkpoints
